@@ -9,10 +9,11 @@ Login/ Password;
 3. Click the 'Начало работы' link.
 
 **Actual result:**<br>
-'Начало работы' link does not open the 'Начало работы' page:<br>
+'Начало работы' link does not open the 'Начало работы' page.<br>
+See:<br>
 <img src="https://github.com/Irina-Sakharchuk/Syberry_task2_defects/blob/dev/screens/bug-1.png" width="250"><br>
 Actual for following links:
-- 'Начало работы';Cancel changes
+- 'Начало работы';
 - FAQ;
 - 'Задать вопрос'.
 
